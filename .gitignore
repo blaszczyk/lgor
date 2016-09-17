@@ -1,3 +1,8 @@
+# Model and Result files
+*.lgo
+*.lrs
+*.lrt
+
 # Compiled Object files
 *.slo
 *.lo
